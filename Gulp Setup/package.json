@@ -1,0 +1,17 @@
+{
+  "name": "gulp_setup",
+  "version": "1.0.0",
+  "description": "setup gulp for automate frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "spandan joshi",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {}
+}
